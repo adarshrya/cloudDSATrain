@@ -2,7 +2,7 @@
 
 Welcome to your **30-Day DSA Mastery Tracker** 🧠  
 This Notion workspace is designed to help you build strong problem-solving skills for **competitive programming** using **Codeforces + GeeksforGeeks + LeetCode**.  
-
+https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file
 ---
 
 ## 🧭 DASHBOARD
